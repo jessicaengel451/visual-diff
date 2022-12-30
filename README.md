@@ -1,2 +1,2 @@
 # visual-diff
-Python based file txt comparison using diff-match-patch that renders differences in an html file
+Python based file text comparison tool using diff-match-patch that renders differences in an html file
