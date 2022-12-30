@@ -4,16 +4,16 @@ Python based file text comparison tool using diff-match-patch that renders diffe
 
 
 # Usage
-usage: visual-diff.py [-h] -c COMPARED -o ORIGINAL
-
-Renders differences between two text files in an HTML window.
-
-options:
-  -h, --help            show this help message and exit
-  -c COMPARED, --compared COMPARED
-                        The relative file path of the file to be compare to the original.
-  -o ORIGINAL, --original ORIGINAL
-                        The relative file path of the original
+    usage: visual-diff.py [-h] -c COMPARED -o ORIGINAL
+    
+    Renders differences between two text files in an HTML window.
+    
+    options:
+      -h, --help            show this help message and exit
+      -c COMPARED, --compared COMPARED
+                            The relative file path of the file to be compare to the original.
+      -o ORIGINAL, --original ORIGINAL
+                            The relative file path of the original
 ## Requirements
 
  - Python3
